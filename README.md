@@ -5,31 +5,12 @@ Engineer and engineering leader, twenty five years in. Currently Head of Ecosyst
 between architecture, code review, and explaining systems to the people who have to use
 them.
 
-### Building
-
-- [`autonomys/auto-sdk`](https://github.com/autonomys/auto-sdk) - the TypeScript SDK for
-  the Autonomys Network, used by every external developer building on it. Fourth-ranked
-  contributor, 197 commits.
-- [`autonomys/auto-drive`](https://github.com/autonomys/auto-drive) - decentralised
-  content-addressed storage. Primary reviewer on the storage and publishing services.
-- [`subspace/autonomys-beneficiary-verification`](https://github.com/subspace/autonomys-beneficiary-verification) - React 19 and polkadot.js app that writes a versioned, replay-protected account
-  association on chain. Live at
-  [beneficiary.subspace.foundation](https://beneficiary.subspace.foundation).
-- [`autonomys-unlock-tracker`](https://github.com/jim-counter/autonomys-unlock-tracker) -
-  a dependency-free static dashboard that resolves staking positions at build time via
-  polkadot.js and refreshes on a daily Action.
-
-### Infrastructure
-
-Devops is a part of the job I find engaging and satisfying.
-[`autonomys/infra`](https://github.com/autonomys/infra) is Terraform IaC for the whole
-network across AWS and Cloudflare: mainnet, Chronos testnet and devnet, reusable modules
-for consensus, domain and farmer nodes, chain indexers and alerting, Infisical-backed
-secrets, Packer AMIs, and a VictoriaMetrics, Loki and Traefik observability stack.
-Everything goes through PR review before it goes near production.
-
-Day to day that also means RabbitMQ, PostgreSQL, Docker Compose deployment profiles and
-Ansible on the Auto Drive services.
+Fourth-ranked contributor to
+[`auto-sdk`](https://github.com/autonomys/auto-sdk) with 197 commits. Primary reviewer on
+the [`auto-drive`](https://github.com/autonomys/auto-drive) storage and publishing
+services. Terraform IaC for the whole network across AWS and Cloudflare in
+[`infra`](https://github.com/autonomys/infra), which is a part of the job I find very
+satisfying.
 
 ### Reviewing
 
