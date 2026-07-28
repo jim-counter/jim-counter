@@ -12,8 +12,7 @@ them.
   contributor, 197 commits.
 - [`autonomys/auto-drive`](https://github.com/autonomys/auto-drive) - decentralised
   content-addressed storage. Primary reviewer on the storage and publishing services.
-- [`subspace/autonomys-beneficiary-verification`](https://github.com/subspace/autonomys-beneficiary-verification)
-  - React 19 and polkadot.js app that writes a versioned, replay-protected account
+- [`subspace/autonomys-beneficiary-verification`](https://github.com/subspace/autonomys-beneficiary-verification) - React 19 and polkadot.js app that writes a versioned, replay-protected account
   association on chain. Live at
   [beneficiary.subspace.foundation](https://beneficiary.subspace.foundation).
 - [`autonomys-unlock-tracker`](https://github.com/jim-counter/autonomys-unlock-tracker) -
